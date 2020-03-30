@@ -2,7 +2,7 @@
 
 ### Images
 
-![image]()
+![image](https://github.com/aayushrai/Auto_Image_Labeling/blob/master/image/1.png)
 
 ## reference link
 
