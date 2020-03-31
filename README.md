@@ -1,5 +1,7 @@
 # Automatic Image Labeling
 
+Put this Auto_Labeling.ipynb file into tensorflow object detection folder "TensorFlow/models/research/object_detection"
+
 ### Images
 
 ![image](https://github.com/aayushrai/Auto_Image_Labeling/blob/master/image/4.png)
